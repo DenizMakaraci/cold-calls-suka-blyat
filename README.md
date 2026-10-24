@@ -1,2 +1,2 @@
 # cold-calls-suka-blyat
-cold calls blyat is an AI agent that uses Boson AI to train other agents to reply on the client's phone calls very clearly. It allows businesses not to loose clients
+An AI agent training platform that simulates realistic cold-call scenarios, evaluates agent performance, and optimizes conversational strategies through iterative feedback and adaptive scenario generation using Boson AI. Built to help small businesses deploy AI sales agents that handle customer objections, maintain engaging conversations, and convert more prospects into customers.
